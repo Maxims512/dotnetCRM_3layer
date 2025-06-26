@@ -1,0 +1,15 @@
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\bin\Debug\net9.0\NLayerApp.DAL.deps.json
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\bin\Debug\net9.0\NLayerApp.DAL.runtimeconfig.json
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\bin\Debug\net9.0\NLayerApp.DAL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\bin\Debug\net9.0\NLayerApp.DAL.pdb
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.AssemblyInfo.cs
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\refint\NLayerApp.DAL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.pdb
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\NLayerApp.DAL.genruntimeconfig.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\ref\NLayerApp.DAL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.DAL\obj\Debug\net9.0\EFCoreNpgsqlNodaTime.cs

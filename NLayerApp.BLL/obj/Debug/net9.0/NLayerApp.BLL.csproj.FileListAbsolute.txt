@@ -1,0 +1,17 @@
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.BLL.deps.json
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.BLL.runtimeconfig.json
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.BLL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.BLL.pdb
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.DAL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\bin\Debug\net9.0\NLayerApp.DAL.pdb
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.csproj.AssemblyReference.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.AssemblyInfo.cs
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerAp.A94316C1.Up2Date
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\refint\NLayerApp.BLL.dll
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.pdb
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\NLayerApp.BLL.genruntimeconfig.cache
+C:\Users\ivan8\Desktop\SpaceApp\NLayerApp\NLayerApp.BLL\obj\Debug\net9.0\ref\NLayerApp.BLL.dll
